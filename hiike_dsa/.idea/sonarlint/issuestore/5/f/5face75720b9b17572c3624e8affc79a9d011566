@@ -1,0 +1,10 @@
+
+
+java:S1319"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(¨ϋώÿÿÿÿ8©Δ‚¤τ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(θΓ8—ΝΎ£τ1
+‚
+java:S2178$"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ζε78μ»¤τ1
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¨ϋώÿÿÿÿ8σ‚¤τ1
+Z
+java:S1155$">Use isEmpty() to check whether the collection is empty or not.(ζε78μ»¤τ1
