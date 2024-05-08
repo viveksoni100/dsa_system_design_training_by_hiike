@@ -1,8 +1,6 @@
 package com.vivek.hiike.class04.classworkqs;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 /**
  * 1.Smallest sequence with given Primes
