@@ -73,3 +73,17 @@ j
 -src/com/vivek/hiike/class05/notes/class_05_qs,b/2/b25df093ce89dda77f5ab7b0119a9da1d6293aab
 y
 Isrc/com/vivek/hiike/class05/classworkqs/SumOfPairwiseHammingDistance.java,8/e/8ec9e8f89fa5442c7fe2b252e3c436b2e081c7af
+d
+4src/com/vivek/hiike/class06/notes/class_06_recording,b/8/b875d50696a97518bb90ee480db8be51a862170a
+`
+0src/com/vivek/hiike/class06/notes/class_06_hw_qs,9/a/9a7fe5ebb356fd7a87071ec926b26d4e6bde4c6f
+]
+-src/com/vivek/hiike/class06/notes/class_06_qs,d/9/d9578e2365bcf8b7a1fc31ed1085eabaae472ff7
+p
+@src/com/vivek/hiike/class06/classworkqs/SquareRootOfInteger.java,2/4/2462a1d4e5cb607659f90e7e9dfbc401b9766678
+s
+Csrc/com/vivek/hiike/class06/classworkqs/FirstAndLastOccurrence.java,0/7/07d8b4ea1cc368fe25efe9c5271088eeeca60910
+m
+=src/com/vivek/hiike/class06/classworkqs/FindAPeakElement.java,e/8/e8c4c8cf0e122b3d084ab314f5b9209bb4cfc16b
+{
+Ksrc/com/vivek/hiike/class06/classworkqs/SearchInARowColumnSortedMatrix.java,f/f/ff99087152d1877a0c240f4a8f64ebfd18e76e91

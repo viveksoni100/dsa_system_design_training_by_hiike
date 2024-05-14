@@ -64,7 +64,7 @@ public class SumOfPairwiseHammingDistance {
         }
         long ans = 0;
         for (int i = 0; i < 32; i++) {
-            ans += (arr[i] * (a.length) - arr[i]) % 1000000007;
+            ans += (arr[i] * ((a.length) - arr[i])) % 1000000007;
             ans = ans % 1000000007;
         }
         return (ans * 2) % 1000000007;
