@@ -1,7 +1,7 @@
 
-]	java:S125"<This block of commented-out lines of code should be removed.(µü¡øüÿÿÿÿ8×Öøœô1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í ÔÖ8Óò·œô1
 V
 java:S4973+"9Use the "equals" method if value comparison was intended.(¦‚û8ş¢¸œô1
-]	java:S125"<This block of commented-out lines of code should be removed.(Áÿ£»ıÿÿÿÿ8¨÷‹ô1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í ÔÖ8Óò·œô1
+]	java:S125"<This block of commented-out lines of code should be removed.(µü¡øüÿÿÿÿ8×Öøœô1
 U	java:S106"9Replace this use of System.out or System.err by a logger.(òË¦8â‚Ÿœô1
+]	java:S125"<This block of commented-out lines of code should be removed.(Áÿ£»ıÿÿÿÿ8¨÷‹ô1

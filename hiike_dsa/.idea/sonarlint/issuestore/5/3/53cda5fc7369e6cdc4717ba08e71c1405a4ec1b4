@@ -1,0 +1,10 @@
+
+|
+java:S41651"_Remove this useless assignment; "a" already holds the assigned value along all execution paths.(ê„™á8Ü…±äù1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¤·»äù1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ÉöÏûÿÿÿÿ8Ñî¨äù1
+B
+java:S16592" Declare "p2" on a separate line.(Ù«å„ÿÿÿÿÿ8áá¼äù1
+X	java:S125)"<This block of commented-out lines of code should be removed.(ô»‘Ÿ8Ü‚Éäù1
+X	java:S125+"<This block of commented-out lines of code should be removed.(Ë´¥™8À Éäù1

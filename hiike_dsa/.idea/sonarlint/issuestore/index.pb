@@ -107,3 +107,15 @@ d
 +src/com/vivek/hiike/class08/notes/recording,7/9/796ccb138fb57192faab111e36e645d5975901ff
 ^
 .src/com/vivek/hiike/class08/notes/classwork_qs,e/a/eaca299fdbf19e54baa47d6a0c4180347854b135
+_
+/src/com/vivek/hiike/class10/notes/class10_hw_qs,6/6/663cb4497bbe87baac8eb3d92dd465e0f0c17a72
+[
++src/com/vivek/hiike/class10/notes/recording,d/7/d799ce69544345b7e004078cf149224d7849216b
+d
+4src/com/vivek/hiike/class10/classworkqs/Anagram.java,2/7/272506a0313bb2c63ce27105d2657d35bd28197b
+y
+Isrc/com/vivek/hiike/class10/classworkqs/ChocolateDistributionProblem.java,5/3/53cda5fc7369e6cdc4717ba08e71c1405a4ec1b4
+\
+,src/com/vivek/hiike/class10/notes/class10_qs,d/5/d524a3d1d54b1725404a797a77ea5368d6f91556
+s
+Csrc/com/vivek/hiike/class10/classworkqs/KClosestPointsToOrigin.java,1/7/17742b5a136b12705f79d19cee60844203f10478
