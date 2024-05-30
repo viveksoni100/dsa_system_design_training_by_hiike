@@ -119,3 +119,15 @@ Isrc/com/vivek/hiike/class10/classworkqs/ChocolateDistributionProblem.java,5/3/
 ,src/com/vivek/hiike/class10/notes/class10_qs,d/5/d524a3d1d54b1725404a797a77ea5368d6f91556
 s
 Csrc/com/vivek/hiike/class10/classworkqs/KClosestPointsToOrigin.java,1/7/17742b5a136b12705f79d19cee60844203f10478
+]
+-src/com/vivek/hiike/class11/notes/class_11_qs,e/d/edeff3c4912a295dc30dc56cc44550249e9e627c
+[
++src/com/vivek/hiike/class11/notes/recording,c/f/cf27b84970afee45449b59cbfe8f64304742aabc
+`
+0src/com/vivek/hiike/class11/notes/class_11_hw_qs,9/8/980b20f9ef9440493a0316c932c6e6eb6eb68471
+[
++src/com/vivek/hiike/class12/notes/recording,2/5/2590a8ace5039616811ecdbc1344b7981b4f58b5
+\
+,src/com/vivek/hiike/class12/notes/class12_qs,e/0/e0a13dc416ce180edecdaccdd934e8f403dc5ce2
+W
+'src/com/vivek/hiike/class13/practice_qs,f/8/f83c8f1e78964834ba823c488c35083d2fb260da
