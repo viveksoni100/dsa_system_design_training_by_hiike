@@ -131,3 +131,9 @@ Csrc/com/vivek/hiike/class10/classworkqs/KClosestPointsToOrigin.java,1/7/17742b
 ,src/com/vivek/hiike/class12/notes/class12_qs,e/0/e0a13dc416ce180edecdaccdd934e8f403dc5ce2
 W
 'src/com/vivek/hiike/class13/practice_qs,f/8/f83c8f1e78964834ba823c488c35083d2fb260da
+p
+@src/com/vivek/hiike/class11/classworkqs/SubarrayWithZeroSum.java,3/a/3ac6e07eee68cace4badbc24a823ff139585568f
+s
+Csrc/com/vivek/hiike/class11/classworkqs/ConsecutiveArrElements.java,1/e/1e96bd8f6527225c541ff2e9af0e80817f2fe5a0
+o
+?src/com/vivek/hiike/class11/classworkqs/SubarraySumEqualsK.java,1/b/1be4b82363df334caf35cfc5718fae12adeed638
